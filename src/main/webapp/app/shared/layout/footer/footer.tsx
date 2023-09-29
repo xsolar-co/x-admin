@@ -8,9 +8,7 @@ const Footer = () => (
   <div className="footer page-content">
     <Row>
       <Col md="12">
-        <p>
-          <Translate contentKey="footer">Your footer</Translate>
-        </p>
+        <p>(@2023) XSolar Administrator v0.1</p>
       </Col>
     </Row>
   </div>
