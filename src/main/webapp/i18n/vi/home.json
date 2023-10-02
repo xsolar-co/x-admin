@@ -1,19 +1,29 @@
 {
-  "home": {
-    "title": "Chào mừng bạn đến với Java Hipster!",
-    "subtitle": "Đây là trang chủ của bạn",
-    "logged": {
-      "message": "Bạn đang đăng nhập bằng tài khoản \"{{username}}\"."
-    },
-    "question": "Nếu bạn có bất kỳ câu hỏi nào về JHipster vui lòng truy cập:",
-    "link": {
-      "homepage": "Trang chủ JHipster",
-      "stackoverflow": "JHipster trên Stack Overflow",
-      "bugtracker": "Theo dõi các lỗi JHipster",
-      "chat": "Phòng chat công cộng JHipster",
-      "follow": "Theo dõi @jhipster trên Twitter"
-    },
-    "like": "Nếu bạn thích JHipster, đừng quên cho chúng tôi thêm một ngôi sao trên",
-    "github": "GitHub"
+  "xAdminApp": {
+    "home": {
+      "home": {
+        "title": "Homes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Thêm mới một Home",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Home",
+        "notFound": "No Homes found"
+      },
+      "created": "Một Home mới được tạo với định danh {{ param }}",
+      "updated": "Một Home cập nhật với định danh {{ param }}",
+      "deleted": "Một Home đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Home {{ id }}?"
+      },
+      "detail": {
+        "title": "Home"
+      },
+      "id": "ID",
+      "homeId": "Home Id",
+      "homeDesc": "Home Desc",
+      "homeAddress": "Home Address",
+      "lastUpdate": "Last Update",
+      "device": "Device",
+      "location": "Location"
+    }
   }
 }
